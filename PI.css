@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(228, 144, 185);
+}
+
+.container {
+    max-width:800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+feImage{
+    width: 20%;
+    height: 200px;
+}
+
+h1 {
+    text-align:center;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+    color: whitesmoke;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* li {
+    margin-bottom: 10px;
+} */
+li a{
+    float: left;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+
+#personal-info,
+#Education,
+#experience,
+#skills,
+#professional-courses,
+#projects,
+#dependents, 
+#management-experience{ 
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+div {
+    background-image: rgb(99, 173, 193);
+   
+    
+}
+
+
+
+/* #personal-info:hover,
+#Education:hover,
+#experience:hover,
+#skills:hover,
+#professional-courses:hover,
+#projects:hover,
+#dependents:hover, 
+#management-experience:hover{
+    background-color: hotpink;
+} */
+.d1{
+    width: 100%;
+    height: 60px;
+    background: rgb(189, 30, 96);
+}
+
+
+
+ 
+
